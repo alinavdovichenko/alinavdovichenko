@@ -9,6 +9,8 @@
 <div align="center">
     <a href="https://vk.com/id199922555" target="_blank"><img src="https://github.com/alinavdovichenko/alinavdovichenko/blob/main/assets/vk.png" 
     alt="ALT-VK" width="40" height="40" /></a>
+    <img src="https://github.com/alinavdovichenko/alinavdovichenko/blob/main/assets/img.png" 
+    alt="ALT" width="40" height="40" />
     <a href="https://t.me/AlinaVdovichenko" target="_blank"><img src="https://github.com/alinavdovichenko/alinavdovichenko/blob/main/assets/telegram.png" 
     alt="ALT-TELEGRAM" width="40" height="40" /></a>
 </div>

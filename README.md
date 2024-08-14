@@ -6,4 +6,11 @@
 
 ### My contacts
 
-[![Viber](https://github.com/alinavdovichenko/alinavdovichenko/blob/main/assets/viber.png)](viber://chat?number=%2B79527057589)   [![VK](https://github.com/alinavdovichenko/alinavdovichenko/blob/main/assets/vk.png)](https://vk.com/id199922555)   [![TELEGRAM](https://github.com/alinavdovichenko/alinavdovichenko/blob/main/assets/telegram.png)](tg://resolve?domain=@AlinaVdovichenko)
+[![Viber](https://github.com/alinavdovichenko/alinavdovichenko/blob/main/assets/viber.png)](viber://chat?number=%2B79527057589) 
+
+[![VK](https://github.com/alinavdovichenko/alinavdovichenko/blob/main/assets/vk.png)](https://vk.com/id199922555)  
+
+[![TELEGRAM](https://github.com/alinavdovichenko/alinavdovichenko/blob/main/assets/telegram.png)](tg://resolve?domain=@AlinaVdovichenko)
+
+<a href="viber://chat?number=%2B79527057589" target="_blank"><img src="https://github.com/alinavdovichenko/alinavdovichenko/blob/main/assets/viber.png" 
+alt="ALT-VIBER" width="40" height="40" /></a>

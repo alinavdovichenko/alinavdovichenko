@@ -8,7 +8,7 @@
 
 <div align="center">
     <a href="https://vk.com/id199922555" target="_blank"><img src="https://github.com/alinavdovichenko/alinavdovichenko/blob/main/assets/vk.png" 
-    alt="ALT-VK"  height="50" width="auto"/></a>
+    alt="ALT-VK"  height="50" width="auto" style="margin-right: 30px"/></a>
     <img src="https://github.com/alinavdovichenko/alinavdovichenko/blob/main/assets/img.png" 
     alt="ALT" width="40" height="40" />
     <a href="https://alinavdovichenko.ru/" target="_blank"><img src="https://github.com/alinavdovichenko/alinavdovichenko/blob/main/assets/MySite.png" 
